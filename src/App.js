@@ -75,4 +75,6 @@ class App extends React.Component {
     }
 }
 
+console.log('hi');
+
 export default App
